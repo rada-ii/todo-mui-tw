@@ -1,6 +1,6 @@
 # ✅ Todo MUI-TW
 
-A simple CRUD todo application demonstrating the integration of Material-UI components with Tailwind CSS styling, built with React and Vite.
+A simple CRUD TODO application demonstrating the integration of Material-UI components with Tailwind CSS styling, built with React and Vite.
 
 ## 🔗 Live Demo
 **[https://todo-mui-tw.vercel.app/](https://todo-mui-tw.vercel.app/)**
